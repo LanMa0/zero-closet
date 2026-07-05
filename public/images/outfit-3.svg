@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d8d8d8"/><stop offset="100%" stop-color="#b0b0b0"/></linearGradient></defs>
+  <rect width="400" height="520" fill="url(#bg)"/>
+  <text x="50%" y="45%" text-anchor="middle" dy=".3em" fill="#222" font-family="-apple-system,sans-serif" font-size="28.000000000000004" font-weight="600">周末出街</text>
+  <text x="50%" y="58%" text-anchor="middle" dy=".3em" fill="#555" font-family="-apple-system,sans-serif" font-size="16">Oversize T</text>
+</svg>

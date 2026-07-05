@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5f5f0"/><stop offset="100%" stop-color="#e8e4dd"/></linearGradient></defs>
+  <rect width="400" height="500" fill="url(#bg)"/>
+  <text x="50%" y="45%" text-anchor="middle" dy=".3em" fill="#333" font-family="-apple-system,sans-serif" font-size="28.000000000000004" font-weight="600">001 白T</text>
+  <text x="50%" y="58%" text-anchor="middle" dy=".3em" fill="#666" font-family="-apple-system,sans-serif" font-size="16">完成</text>
+</svg>
